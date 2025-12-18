@@ -5,4 +5,5 @@ class I2C:
         """
         Creates an I2C object
         """
+
         pass
